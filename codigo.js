@@ -1,3 +1,6 @@
+/*Juan Carlos Acosta Escobar
+AE19001*/
+
 var fila="<tr><td class='id'></td><td class='foto'></td><td class='price'></td><td class='title'></td><td class='description'></td><td class='category'></td></tr>";
 	 var productos=null;
   function codigoCat(catstr) {
